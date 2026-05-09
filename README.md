@@ -51,6 +51,12 @@ pretrained_models/minigpt_tester.pt
 pretrained_models/best_train_loss_checkpoint.pth
 ```
 
+## Lecture Slides
+
+- [Lecture 1: Attention, Transformers & Language Modeling](lecture_slides/lecture1_attention_transformers.pdf)
+- [Lecture 2: Scaling, Post-Training & Evaluation](lecture_slides/lecture2_post_training.pdf)
+- [Lecture 3: Reasoning, Evaluation, Systems and Applications](lecture_slides/lecture3_reasoning_evals_systems_applications.pdf)
+
 ## References
 
 - TinyStories: "How Small Can Language Models Be and Still Speak Coherent English?", Eldan and Li, 2023. https://arxiv.org/abs/2305.07759
