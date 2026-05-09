@@ -51,6 +51,10 @@ pretrained_models/minigpt_tester.pt
 pretrained_models/best_train_loss_checkpoint.pth
 ```
 
+## Project Spec
+
+- [Project 3: Transformers](project_spec/proj3-transformers.pdf)
+
 ## Lecture Slides
 
 - [Lecture 1: Attention, Transformers & Language Modeling](lecture_slides/lecture1_attention_transformers.pdf)
