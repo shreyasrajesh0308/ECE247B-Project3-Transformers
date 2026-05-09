@@ -51,17 +51,6 @@ pretrained_models/minigpt_tester.pt
 pretrained_models/best_train_loss_checkpoint.pth
 ```
 
-## Running
-
-Open and follow `Language_Modelling.ipynb`, or run training from Python:
-
-```python
-from train import solver
-
-solver(model_name="bigram")
-solver(model_name="minigpt")
-```
-
 ## References
 
 - TinyStories: "How Small Can Language Models Be and Still Speak Coherent English?", Eldan and Li, 2023. https://arxiv.org/abs/2305.07759
